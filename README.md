@@ -1,7 +1,8 @@
 ### Merhaba, Ben Emir Kaya 👋
-İstanbul Sabahattin Zaim Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisi ve **Junior Yazılım Mühendisi** adayıyım. Gelişmekte olan teknolojilere, **Yazılım Geliştirme** ve **Veri Analizi** alanlarına büyük ilgi duyan, meraklı bir mühendislik öğrencisiyim.
+İstanbul Sabahattin Zaim Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisi ve **Junior Yazılım Mühendisi** adayıyım. Gelişmekte olan teknolojilere, **Yazılım Geliştirme** , **Veri Analizi** , **Makine Öğrenmesi** ve **Derin Öğrenme** alanlarına büyük ilgi duyan, meraklı bir mühendislik öğrencisiyim.
 
 #### 💡 Odak Alanlarım ve Becerilerim:
+* **Frontend** ve **mobil geliştirme** alanlarında kendimi geliştirecek çalışmalar yaptım.
 * **Makine Öğrenimi (ML)** ve **Derin Öğrenme (DL)** alanlarında bilgimi sürekli geliştiriyorum.
 * Temel teknik yetkinliklerim; **C, C++, Python, JavaScript, CSS** ve **React Native** gibi dilleri ve teknolojileri kapsıyor.
 * Veri işleme ve analizi için **Pandas** ve **MySQL** gibi kütüphaneler/araçlar kullanıyorum.
@@ -38,10 +39,3 @@ Dinamik ekiplerle iş birliği yaparak, sektör trendlerine uygun inovatif proje
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eqa1040&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="GitHub İstatistikleri" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eqa1040&layout=compact&theme=buefy&hide_border=true" alt="En Çok Kullanılan Diller" />
-</p>
