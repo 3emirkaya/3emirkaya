@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eqa1040&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbld9hpRcW7A2nRa/giphy.gif" width="60"/>
-</p>
 
 # Hello, I'm Emir Kaya 👋
 
@@ -48,17 +41,7 @@ I have a strong interest in emerging technologies, particularly **Software Devel
 
 My aim is to contribute to effective software solutions that solve real-world problems through innovative projects, collaborating with dynamic teams in line with sector trends.
 
----
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eqa1040&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eqa1040&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 🔗 Connect With Me
 
